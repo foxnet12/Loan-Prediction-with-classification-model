@@ -14,10 +14,16 @@ In this project, we aim to classify individuals based on factors like Income, Ed
 ##                                            Project steps
 
 Labeling category variables.
-Spliting the data set into features and target variable.
+
+Splitting the data set into features and target variables.
+
 Splitting the data into train and test.
+
 Model training.
+
 Predicting the loan status.
+
 Evaluating the model.
+
 Result: The accuracy is 77 percent
 
